@@ -24,11 +24,11 @@ This repository contains materials for the MSCA 31008 Data Mining Principles Tea
 
 * Notebooks (9 Jupyter notebooks and 9 HTML files)
 
+  + _1 notebook for data cleaning_
+
   + _3 notebooks for exploratory data analysis_
 
-  + _1 notebook for agggating the dataset_
-
-  + _3 notetoboks for supervised learning (regression and classification)_
+  + _3 notebooks for supervised learning (regression and classification)_
 
   + _1 notebook for unsupervised learning (clustering)_
 
@@ -39,5 +39,34 @@ This repository contains materials for the MSCA 31008 Data Mining Principles Tea
 **Project description**
 
 In this project our team applied the majority of algorithms we learned in the Data Mining class with Professor U. Pamuksuz.
+
+Among them: 
+
+* **unsupervised lerning techniques** (k-means, DBSCAN, hierarchical clustering)
+
+* **dimensionality reduction techniques** (PCA, t-SNE)
+
+* **supervised learning techniques** (regression, classification)
+
+  + _Decision Tree_
+  
+  + _k-nearest neighbors_
+  
+  + _Support Vector Machines_
+  
+  + _Random Forest_
+  
+  + _Gradient Boosting_
+  
+  + _AdaBoost_
+  
+* **Recommender system** (collaborative filtering)
+
+
+  
+
+  
+
+
 
 
