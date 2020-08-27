@@ -14,9 +14,11 @@ This repository contains materials for the MSCA 31008 Data Mining Principles Tea
 
 * [**Surendiran Rangaraj**](http://linkedin.com/in/surendiran-rangaraj-29463119): _surendiran@uchicago.
 
+
 <center>
 ![](https://i.ibb.co/kSJw9dn/image.png)
 </center>
+
 
 **The structure of the repository:**
 
@@ -24,14 +26,20 @@ This repository contains materials for the MSCA 31008 Data Mining Principles Tea
 
 * Notebooks (9 Jupyter notebooks and 9 HTML files)
 
-- 3 notebooks for exploratory data analysis
+  + _3 notebooks for exploratory data analysis_
 
-- 1 notebook for agggating the dataset
+  + _1 notebook for agggating the dataset_
 
-- 3 notetoboks for supervised learning (regression and classification)
+  + _3 notetoboks for supervised learning (regression and classification)_
 
-- 1 notebook for unsupervised learning (clustering)
+  + _1 notebook for unsupervised learning (clustering)_
 
-- 1 notebook for a recommender system
+  + _1 notebook for a recommender system_
 
 * Slides and Files (Project proposal and final presentation)
+
+**Project description**
+
+In this project our team applied the majority of algorithms we learned in the Data Mining class with Professor U. Pamuksuz.
+
+
