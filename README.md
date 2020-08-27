@@ -12,7 +12,7 @@ This repository contains materials for the MSCA 31008 Data Mining Principles Tea
 
 * [**Oleksiy Anokhin**](https://www.linkedin.com/in/oanokhin/): _anokhin@uchicago.edu_
 
-* [**Surendiran Rangaraj**](http://linkedin.com/in/surendiran-rangaraj-29463119): _surendiran@uchicago.
+* [**Surendiran Rangaraj**](http://linkedin.com/in/surendiran-rangaraj-29463119): _surendiran@uchicago_
 
 
 <center>
