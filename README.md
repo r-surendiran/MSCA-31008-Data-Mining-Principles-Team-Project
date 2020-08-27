@@ -1,4 +1,4 @@
-This repository contains materials for the MSCA 31008 Data Mining Principles Team Project
+This repository contains materials for the MSCA 31008 Data Mining Principles Team Project.
 
 **Professor:** Dr. Utku Pamuksuz
 
@@ -40,13 +40,15 @@ This repository contains materials for the MSCA 31008 Data Mining Principles Tea
 
 In this project our team applied the majority of algorithms we learned in the Data Mining class with Professor U. Pamuksuz.
 
+In our work we used **Starbucks App Customer Rewards Program dataset**, which simulated about 140000 transactions. This data allowed us to ask multiple buisness questions about Starbucks customers and transactions and answer them, using different techniques (below). 
+
 Among them: 
 
-* **unsupervised lerning techniques** (k-means, DBSCAN, hierarchical clustering)
+* **Unsupervised lerning techniques** (k-means, DBSCAN, hierarchical clustering)
 
-* **dimensionality reduction techniques** (PCA, t-SNE)
+* **Dimensionality reduction techniques** (PCA, t-SNE)
 
-* **supervised learning techniques** (regression, classification)
+* **Supervised learning techniques** (regression, classification)
 
   + _Decision Tree_
   
@@ -60,12 +62,7 @@ Among them:
   
   + _AdaBoost_
   
-* **Recommender system** (collaborative filtering)
-
-
-  
-
-  
+Please do not hesitate to contact us, if you have any questions. 
 
 
 
