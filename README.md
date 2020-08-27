@@ -12,7 +12,11 @@ This repository contains materials for the MSCA 31008 Data Mining Principles Tea
 
 * [**Oleksiy Anokhin**](https://www.linkedin.com/in/oanokhin/): _anokhin@uchicago.edu_
 
-* [**Surendiran Rangaraj**](http://linkedin.com/in/surendiran-rangaraj-29463119): 
+* [**Surendiran Rangaraj**](http://linkedin.com/in/surendiran-rangaraj-29463119): _surendiran@uchicago.
+
+<center>
+![](https://i.ibb.co/kSJw9dn/image.png)
+</center>
 
 **The structure of the repository:**
 
@@ -31,9 +35,3 @@ This repository contains materials for the MSCA 31008 Data Mining Principles Tea
 - 1 notebook for a recommender system
 
 * Slides and Files (Project proposal and final presentation)
-
-
-
-
-
-
