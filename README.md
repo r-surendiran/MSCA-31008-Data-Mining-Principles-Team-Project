@@ -40,7 +40,7 @@ This repository contains materials for the MSCA 31008 Data Mining Principles Tea
 
 In this project our team applied the majority of algorithms we learned in the Data Mining class with Professor U. Pamuksuz.
 
-In our work we used **Starbucks App Customer Rewards Program dataset**, which simulated about 140000 transactions. This data allowed us to ask multiple buisness questions about Starbucks customers and transactions and answer them, using different techniques (below). 
+In our work we used **Starbucks App Customer Rewards Program dataset**, which simulated about 140000 transactions. This data allowed us to ask multiple business questions about Starbucks customers and transactions and answer them, using different techniques (below). 
 
 Among them: 
 
@@ -48,7 +48,7 @@ Among them:
 
 * **Dimensionality reduction techniques** (PCA, t-SNE)
 
-* **Supervised learning techniques** (regression, classification)
+* **Supervised learning techniques** (Regression, Classification)
 
   + _Decision Tree_
   
